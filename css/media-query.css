@@ -26,7 +26,7 @@
     body{
         background-image: linear-gradient(to top, var(--green), var(--purple));
     }
-    
+
     #login{
         width: 950px;
     }
@@ -42,4 +42,15 @@
         width: 50%;
         height: 100%;
     }
+
+    #form h1{
+        font-size: 2em;
+    }
+    
+    #form p{
+        text-align: justify;
+        font-size: 1.2em;
+    }
+
+    
 }
